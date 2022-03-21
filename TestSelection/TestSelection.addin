@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding ="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\TestRevitApps\TestSelection.dll"</Assembly>
+		<AddInId>834EFF21-4030-4493-BF48-AB779A1AF1C6</AddInId>
+		<FullClassName>TestSelection.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор воздуховодов по этажам</Text>
+	</AddIn>
+</RevitAddIns>
